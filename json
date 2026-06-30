@@ -1,4 +1,7 @@
-{  "new_field": "значение"}
-{  "new_field": "значение",  "second_field": "другое значение"}
-{  "user": {    "name": "Иван",    "age": 25  }}
-
+{
+    "$schema": "https://getcomposer.org/schema.json",
+    "_comment": ["green", "red", "blue"],
+    "abandoned": {
+        "green": "зеленый"
+    }
+}
